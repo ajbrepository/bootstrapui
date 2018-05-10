@@ -1,0 +1,20 @@
+{
+  "name": "bootstrapui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo I am running Node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajbrepository/bootstrapui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajbrepository/bootstrapui/issues"
+  },
+  "homepage": "https://github.com/ajbrepository/bootstrapui#readme",
+  "dependencies": {}
+}
